@@ -3,7 +3,7 @@
 ## Chapter 2: Plain Old Data & Functions
 
 <details>
-  <summary>Click to see Challenges!</summary>
+  <summary>:feelsgood:Click to see Challenges!</summary>
 
 ### Challenge 1
 Write a program to find the “Sum” and “Average” of “three” numbers. Provide a hint to the user, take the input and return some output results to show the user the calculations for their three numbers.
