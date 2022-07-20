@@ -5,7 +5,10 @@
 <details>
   <summary>Click to see Chapters! :feelsgood:</summary>
 
-#### Chapter 2
+### Chapter 2: Plain Old Data & Functions
 [Go to Chapter](/Module%201/Chapter%202)
+
+### Chapter 3: Branching and Loops
+[Go to Chapter](/Module%201/Chapter%203)
 
 </details>
