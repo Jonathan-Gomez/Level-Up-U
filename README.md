@@ -11,4 +11,7 @@
 ### Chapter 3: Branching and Loops
 [Go to Chapter](/Module%201/Chapter%203)
 
+### Chapter 4: Arrays, Classes and Object Oriented Programming
+[Go to Chapter](/Module%201/Chapter%204)
+
 </details>
